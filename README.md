@@ -66,7 +66,7 @@ Multi-page e-learning platform UI focused on navigation and responsive design.
 ## 📫 Contact Me
 
 📧 Email: [riazmohd98769@gmail.com](mailto:riazmohd98769@gmail.com)
-📱 Phone: +91-9968443388
+
 
 ---
 
