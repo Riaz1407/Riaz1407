@@ -6,7 +6,7 @@ AI & Automation Enthusiast | BCA (AI & ML) Student
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Enthusiast;Frontend+Developer;n8n+Workflow+Builder;Google+Gemini+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Enthusiast;Frontend+Developer;n8n+Workflow+Builder;Exploring+LLMs+and+AI+Agents;Always+Learning+New+Things+🚀" />
 
 </p>
 
@@ -16,55 +16,37 @@ AI & Automation Enthusiast | BCA (AI & ML) Student
 
 🎓 BCA (AI & ML) Student at **Manav Rachna International Institute of Research & Studies**
 
-🌱 Currently learning:
+💡 Passionate about building practical projects using:
 
-* n8n Workflow Automation
+* 🤖 Generative AI & Large Language Models (LLMs)
+* ⚡ Workflow Automation with n8n
+* 🧠 AI Agents & Agentic Workflows
+* 🌐 Frontend Development
+* 🐳 Docker & Cloud Technologies
+
+🌱 Currently exploring:
+
 * Google Gemini API
+* Prompt Engineering
+* AI Agents
+* Advanced n8n Workflows
+* LLM Applications
 * React.js
 * Docker
-* Generative AI
-
-💡 Interested in:
-
-* AI Applications
-* Workflow Automation
-* Frontend Development
-* Generative AI
-* Cloud Technologies
 
 📍 Faridabad, Haryana, India
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Areas of Interest
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riaz1407&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riaz1407&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riaz1407&theme=tokyonight"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Riaz1407&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+* Large Language Models (LLMs)
+* AI Agents & Agentic AI
+* Workflow Automation
+* Generative AI Applications
+* Prompt Engineering
+* Frontend Development
+* Cloud & Containerization
 
 ---
 
@@ -100,7 +82,7 @@ AI & Automation Enthusiast | BCA (AI & ML) Student
 
 ---
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
 
@@ -114,56 +96,95 @@ AI & Automation Enthusiast | BCA (AI & ML) Student
 
 ---
 
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riaz1407&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riaz1407&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 ## ⭐ Featured Projects
 
 ### 📧 AI Gmail Smart Organizer
 
-AI-powered Gmail workflow using n8n + Gemini AI.
+An AI-powered Gmail automation workflow built using **n8n**, **Google Gemini AI**, and **Docker**.
 
-* Gmail Trigger
-* Gemini Classification
-* Auto Labels
+✨ Features:
+
+* Gmail Trigger Integration
+* AI Email Classification
+* Automatic Labeling
 * Docker Deployment
+* Persistent Storage
 
-🔗 https://github.com/Riaz1407/n8n-gmail-auto-labeler
+🔗 Repository:
+
+https://github.com/Riaz1407/n8n-gmail-auto-labeler
 
 ---
 
-### 💬 React Real-Time Chat App
+### 💬 Real-Time Chat App
 
-Responsive chat interface built with React.
+Responsive chat application built using React.
 
-🔗 https://github.com/Riaz1909/react-responsive-chat
+🔗
+
+https://github.com/Riaz1909/react-responsive-chat
 
 ---
 
 ### 📝 Online Quiz Application
 
-Interactive quiz app with dynamic scoring.
+Interactive quiz application with dynamic scoring.
 
-🔗 https://github.com/Riaz1909/quiz_app
+🔗
+
+https://github.com/Riaz1909/quiz_app
 
 ---
 
 ### 🌐 Portfolio Website
 
-Responsive portfolio website.
+Responsive personal portfolio website.
 
-🔗 https://github.com/Riaz1909/Portfolio
+🔗
+
+https://github.com/Riaz1909/Portfolio
 
 ---
 
-## 🌱 Currently Building
+### 🎓 E-Learning Platform UI
 
-🚀 AI Document Translator
+Multi-page E-learning platform focused on responsive design and intuitive navigation.
+
+🔗
+
+https://github.com/Riaz1909/E-learning-platform
+
+---
+
+## 🚧 Currently Building
+
+### 📄 AI Document Translator
 
 Features:
 
-* DOCX Translation
-* PDF Translation
-* Hindi ↔ English
-* Gemini AI
-* Download Translated Files
+✅ DOCX Translation
+
+✅ PDF Translation
+
+✅ TXT Translation
+
+✅ Hindi ↔ English
+
+✅ Google Gemini AI
+
+✅ Download Translated Files
 
 ---
 
@@ -177,7 +198,7 @@ Features:
 
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/riaz-mohd-71844b355">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
