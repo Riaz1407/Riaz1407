@@ -1,164 +1,200 @@
-# 👋 Hi, I'm Mohammad Riaz
+# Hi 👋, I'm Mohammad Riaz
 
-🚀 AI & Automation Enthusiast | BCA (AI & ML) Student
-🎓 Manav Rachna International Institute of Research & Studies
+<h3 align="center">
+AI & Automation Enthusiast | BCA (AI & ML) Student
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Enthusiast;Frontend+Developer;n8n+Workflow+Builder;Google+Gemini+Developer;Always+Learning+New+Things+🚀" />
+
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 BCA (AI & ML) Student at **Manav Rachna International Institute of Research & Studies**
+
+🌱 Currently learning:
+
+* n8n Workflow Automation
+* Google Gemini API
+* React.js
+* Docker
+* Generative AI
+
+💡 Interested in:
+
+* AI Applications
+* Workflow Automation
+* Frontend Development
+* Generative AI
+* Cloud Technologies
+
 📍 Faridabad, Haryana, India
 
 ---
 
-## 💫 About Me
+## 📈 GitHub Stats
 
-I'm a BCA (AI & ML) student passionate about building practical applications using **AI, automation, and web technologies**.
+<p align="center">
 
-I enjoy creating projects that solve real-world problems — from automating Gmail workflows using AI to building responsive web applications and experimenting with intelligent systems.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riaz1407&show_icons=true&theme=tokyonight"/>
 
-Currently exploring:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riaz1407&layout=compact&theme=tokyonight"/>
 
-* 🤖 AI & Generative AI
-* ⚡ Workflow Automation with n8n
-* 🌐 Frontend Development with React
-* 🐳 Docker & Cloud Deployment
-* 🧠 Large Language Models (Gemini)
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riaz1407&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Riaz1407&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🚀 Tech Stack
 
 ### 🤖 AI & Automation
 
-* n8n
-* Google Gemini API
-* Prompt Engineering
-* Workflow Automation
+<p>
 
-### 🌐 Frontend
+<img src="https://img.shields.io/badge/n8n-Workflow-orange?style=for-the-badge&logo=n8n"/>
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
+<img src="https://img.shields.io/badge/Google-Gemini-green?style=for-the-badge&logo=google"/>
 
-### 💻 Programming Languages
+<img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker"/>
 
-* Python
-* Java
-* C
-
-### 🛠 Tools & Platforms
-
-* Git & GitHub
-* Docker
-* VS Code
-* Oracle Database
-* Postman
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🌐 Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+</p>
+
+---
+
+### 💻 Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c"/>
+
+</p>
+
+---
+
+## ⭐ Featured Projects
 
 ### 📧 AI Gmail Smart Organizer
 
-An AI-powered Gmail automation workflow built with **n8n** and **Google Gemini**.
+AI-powered Gmail workflow using n8n + Gemini AI.
 
-✨ Features:
+* Gmail Trigger
+* Gemini Classification
+* Auto Labels
+* Docker Deployment
 
-* Automatically listens for new Gmail messages
-* Uses Gemini AI to classify emails
-* Applies Gmail labels automatically
-* Categories:
+🔗 https://github.com/Riaz1407/n8n-gmail-auto-labeler
 
-  * 🎓 College
-  * 💼 Internship
-  * 📂 Others
+---
 
-**Tech Stack:**
+### 💬 React Real-Time Chat App
 
-n8n • Gemini API • Gmail API • Docker
+Responsive chat interface built with React.
 
-🔗 Repository:
-
-https://github.com/Riaz1407/n8n-gmail-auto-labeler
+🔗 https://github.com/Riaz1909/react-responsive-chat
 
 ---
 
 ### 📝 Online Quiz Application
 
-Interactive quiz application that dynamically loads questions and calculates scores.
+Interactive quiz app with dynamic scoring.
 
-**Tech Stack:**
-
-HTML • CSS • JavaScript
-
-🔗 Repository:
-
-https://github.com/Riaz1909/quiz_app
-
----
-
-### 💬 Real-Time Chat App
-
-Responsive chat interface built using React with component-based architecture.
-
-**Tech Stack:**
-
-React.js • JavaScript • CSS
-
-🔗 Repository:
-
-https://github.com/Riaz1909/react-responsive-chat
+🔗 https://github.com/Riaz1909/quiz_app
 
 ---
 
 ### 🌐 Portfolio Website
 
-Personal responsive portfolio showcasing projects and skills.
+Responsive portfolio website.
 
-**Tech Stack:**
-
-HTML • CSS
-
-🔗 Repository:
-
-https://github.com/Riaz1909/Portfolio
+🔗 https://github.com/Riaz1909/Portfolio
 
 ---
 
-### 🎓 E-Learning Platform UI
+## 🌱 Currently Building
 
-Multi-page E-learning platform focused on responsive design and intuitive navigation.
+🚀 AI Document Translator
 
-**Tech Stack:**
+Features:
 
-HTML • CSS • JavaScript
-
-🔗 Repository:
-
-https://github.com/Riaz1909/E-learning-platform
-
----
-
-## 🌱 Currently Learning
-
-* Advanced n8n Workflows
-* Generative AI Applications
-* React Ecosystem
-* Docker & Cloud Deployment
-* System Design Basics
+* DOCX Translation
+* PDF Translation
+* Hindi ↔ English
+* Gemini AI
+* Download Translated Files
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-📧 Email: [riazmohd98769@gmail.com](mailto:riazmohd98769@gmail.com)
+<p>
 
-💼 LinkedIn:
+<a href="https://github.com/Riaz1407">
 
-https://www.linkedin.com/in/YOUR-LINKEDIN
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-🐙 GitHub:
+</a>
 
-https://github.com/Riaz1407
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:riazmohd98769@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
 
 ---
 
-⭐ I love building projects that combine **AI, automation, and user experience**. Always learning, always building.
+<p align="center">
+
+⭐ Always Learning. Always Building. 🚀
+
+</p>
