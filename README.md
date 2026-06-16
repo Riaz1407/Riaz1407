@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mohammad Riaz
 
 <h3 align="center">
-AI & Automation Enthusiast | BCA (AI & ML) Student
+AI • Automation • Frontend | BCA (AI & ML) Student
 </h3>
 
 <p align="center">
@@ -50,7 +50,7 @@ AI & Automation Enthusiast | BCA (AI & ML) Student
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Skills
 
 ### 🤖 AI & Automation
 
@@ -58,9 +58,11 @@ AI & Automation Enthusiast | BCA (AI & ML) Student
 
 <img src="https://img.shields.io/badge/n8n-Workflow-orange?style=for-the-badge&logo=n8n"/>
 
-<img src="https://img.shields.io/badge/Google-Gemini-green?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Workflow_Automation-EA4B71?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge"/>
 
 </p>
 
@@ -91,6 +93,42 @@ AI & Automation Enthusiast | BCA (AI & ML) Student
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c"/>
+
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+
+<img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+### 🚀 Currently Exploring
+
+<p>
+
+<img src="https://img.shields.io/badge/LLMs-Learning-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-Learning-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-Exploring-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-Technologies-informational?style=for-the-badge"/>
 
 </p>
 
