@@ -16,17 +16,19 @@ AI • Automation • Frontend | BCA (AI & ML) Student
 
 🎓 BCA (AI & ML) Student at **Manav Rachna International Institute of Research & Studies**
 
-💡 Passionate about building practical projects using:
+💡 Passionate about building practical AI applications using:
 
 * 🤖 Generative AI & Large Language Models (LLMs)
 * ⚡ Workflow Automation with n8n
 * 🧠 AI Agents & Agentic Workflows
+* ☁️ Microsoft Azure & Azure AI Services
 * 🌐 Frontend Development
 * 🐳 Docker & Cloud Technologies
 
 🌱 Currently exploring:
 
 * Google Gemini API
+* Azure AI Vision
 * Prompt Engineering
 * AI Agents
 * Advanced n8n Workflows
@@ -35,6 +37,20 @@ AI • Automation • Frontend | BCA (AI & ML) Student
 * Docker
 
 📍 Faridabad, Haryana, India
+
+---
+
+## 🏆 Certifications & Achievements
+
+### Google
+
+✅ **5-Day AI Agents: Intensive Vibe Coding Course**
+
+Completed: June 2026
+
+🔗 Badge:
+
+PASTE_YOUR_BADGE_LINK_HERE
 
 ---
 
@@ -59,6 +75,10 @@ AI • Automation • Frontend | BCA (AI & ML) Student
 <img src="https://img.shields.io/badge/n8n-Workflow-orange?style=for-the-badge&logo=n8n"/>
 
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure_AI_Vision-0078D4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Workflow_Automation-EA4B71?style=for-the-badge"/>
 
@@ -93,6 +113,22 @@ AI • Automation • Frontend | BCA (AI & ML) Student
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c"/>
+
+</p>
+
+---
+
+### ☁️ Cloud & AI Services
+
+<p>
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure_AI_Vision-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure_Virtual_Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure_Storage-0078D4?style=for-the-badge"/>
 
 </p>
 
@@ -134,9 +170,31 @@ AI • Automation • Frontend | BCA (AI & ML) Student
 
 ---
 
-
-
 ## ⭐ Featured Projects
+
+### 🤖 Azure AI Visual Assistant
+
+An AI-powered image analysis web application built using **Azure AI Vision**, **Google Gemini**, and **Flask**.
+
+✨ Features:
+
+* Image Caption Generation
+* Object Detection & Tag Extraction
+* Gemini AI-powered Image Explanation
+* Interactive Gemini Chat
+* Modern Responsive UI
+* Processing Time Tracking
+* Live Deployment on Render
+
+🔗 Repository:
+
+https://github.com/Riaz1407/Azure-AI-Visual-Assistant
+
+🌐 Live Demo:
+
+https://azure-ai-visual-assistant.onrender.com
+
+---
 
 ### 📧 AI Gmail Smart Organizer
 
@@ -215,7 +273,8 @@ Features:
 ✅ Download Translated Files
 
 ---
-
+## N8N project
+---
 ## 🤝 Connect With Me
 
 <p>
