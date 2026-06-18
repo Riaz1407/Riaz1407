@@ -297,8 +297,5 @@ Features:
 
 ---
 
-<p align="center">
-
-⭐ Always Learning. Always Building. 🚀
 
 </p>
