@@ -50,7 +50,7 @@ Completed: June 2026
 
 🔗 Badge:
 
-[PASTE_YOUR_BADGE_LINK_HERE](https://developers.google.com/profile/badges/events/cloud/five-day-ai-agents)
+[Badge](https://developers.google.com/profile/badges/events/cloud/five-day-ai-agents)
 
 ---
 
